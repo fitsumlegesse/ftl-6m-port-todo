@@ -13,6 +13,11 @@ function App() {
         <div className="todos_wrapper">
          <div className="todos_list">
            <h3 className="todo_title">Todos List</h3>
+           <div className='todo_card'>
+            <p className='card_text'> some text here</p>
+            <FaCheck className='icon-check-todo'/>
+            <FaTrash className='icon-trash-todo'/>
+           </div>
          </div>
          <div className="todos_list">
            <h3 className="todo_title">InProgress</h3>

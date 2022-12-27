@@ -97,3 +97,15 @@
   margin-top: 3px;
   margin-right: 6px;
 }
+
+.todo_card .card_text {
+  margin: auto;
+}
+.icon-check-todo {
+  background: #276c91;
+  color: #fff;
+  padding: 5px;
+  font-size: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
